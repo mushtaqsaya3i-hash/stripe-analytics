@@ -1,6 +1,7 @@
 # Stripe Payment Analytics Dashboard
 
 A portfolio-ready analytics project that uses the Stripe API, Python, SQL, and Power BI to build an end-to-end payment analytics pipeline and business dashboard.
+![Stripe Payment Analytics Dashboard](stripe_dashboard.png)
 
 ## Project Overview
 
